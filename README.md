@@ -2,7 +2,7 @@
 
 🎓 17 y/o student from Germany — passionate about **programming**, **game development**, and **building tools** for games I love.
 
-- 💡 Java, C++ enthusiast
+- 💡 Java enthusiast
 - 🎮 Creating game systems, calculators & simulation tools
 - 🛠️ Always improving my code and learning new stuff
 
@@ -23,7 +23,7 @@ A Java engine built with LibGDX for rendering 2D shapes — supports circles, B�
 
 ## 💻 Tech Stack
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![LibGDX](https://img.shields.io/badge/LibGDX-EA1D22?style=flat&logo=libgdx&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
