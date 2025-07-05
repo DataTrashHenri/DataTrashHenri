@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Henri!
 
-🎓 17 y/o student from Germany — passionate about **programming**, **game development**, and **building tools** for games I love.
+🎓 18 y/o student from Germany — passionate about **programming**, **game development**, and **building tools** for games I love.
 
 - 💡 Java enthusiast
 - 🎮 Creating game systems, calculators & simulation tools
