@@ -16,8 +16,9 @@ Plan full production chains — just by entering your target item/min. Auto-gene
 ### 🧠 Minecraft CPU
 Working on a custom CPU built in redstone — featuring binary shifting, registers, and instruction ROM.
 
-### 📐 [Polygon Engine](https://github.com/DataTrashHenri/polygon)
-A Java engine built with LibGDX for rendering 2D shapes — supports circles, Bézier curves, and complex polar coordinate-based forms. Ideal for simulations and visual geometry tools.
+### 🔢 [Primenumber Calculator](https://github.com/DataTrashHenri/CPrime)
+Calculates primenumbers using an efficient sieving algorithm created by Eratosthenes.
+Written in C.
 
 ---
 
